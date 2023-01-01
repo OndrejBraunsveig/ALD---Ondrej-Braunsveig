@@ -82,7 +82,7 @@ bl11 = ImageTk.PhotoImage(im)
 im = Image.open('Block12.jpg')
 bl12 = ImageTk.PhotoImage(im)
 
-#filling gui
+#gui filling
 for i in range(SIZE_BOARD):
     for j in range(SIZE_BOARD):
         match gameBoard[i][j]:
