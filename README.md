@@ -2,3 +2,6 @@ Na začátku programu si vytvořím hrací plochu, která je naplněná čísly 
 
 Jakmile je algoritmus dokončen, tak vygeneruji GUI s vizuálním zobrazením vygenerované hrací plochy. Políčka do GUI vkládám jako JPG.
 Spuštěním programu se automaticky vygeneruje hrací plocha i GUI.
+
+
+Solo práce - Ondřej Braunšveig
